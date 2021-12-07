@@ -13,10 +13,12 @@ y = x      #  assign 'y' to same object as 'x'
 x = 10     #  re-assign 'x' to new int object with value 10
 print(x, y, type(x), type(y))
 
+# "snake" case
 customer_data_for_june_2020_without_texas = "whatevers..."
 
 #  a-z 0-9 _ A-Z
 
+#
 class DogBreed:
     pass
 
