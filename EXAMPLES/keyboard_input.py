@@ -8,3 +8,5 @@ raw_num = input("Enter number: ")  # <1>
 num = int(raw_num)  # <2>
 
 print("2 times", num, "is ", 2 * num)
+
+
